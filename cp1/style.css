@@ -1,0 +1,26 @@
+.titulo{
+    text-transform: uppercase;
+}
+
+.banner{
+    width: 50%;
+    height: 50%;
+}
+
+.link_prox{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 350px;
+}
+
+.btn_clique{
+    width: 15%;
+    height: 50%;
+}
+
+.redirecionamentos{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
